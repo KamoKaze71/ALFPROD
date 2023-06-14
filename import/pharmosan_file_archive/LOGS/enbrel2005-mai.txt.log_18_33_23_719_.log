@@ -1,0 +1,160 @@
+
+SQL*Loader: Release 9.2.0.5.0 - Production on Mo Jul 18 18:33:22 2005
+
+Copyright (c) 1982, 2002, Oracle Corporation.  All rights reserved.
+
+Kontrolldatei:    d:\intranet\application_alf\import\ControlFiles\Pharmosan.ctl
+Datendatei:     d:\intranet\application_alf\import\enbrel2005-mai.txt
+  Datei fehlerhafter Sätze:d:\intranet\application_alf\import\enbrel2005-mai.txt.bad
+  Datei für zurückgewiesene Sätze:  nichts spezifiziert
+ 
+ (alle Discards zulassen)
+
+Zu ladende Anzahl:     ALL
+Zu überspringende Anzahl: 0
+Zulässige Fehler:          50
+Bind-Array:     64 Zeilen, maximal 256000 Bytes
+Fortsetzung:    nichts spezifiziert
+Benutzer Pfad:      Konventionell
+
+Tabelle TMP_T_WYETH_PRE, geladen von jedem logischen Satz.
+Insert-Option in Kraft für diese Tabelle: INSERT
+
+   Spaltenname                  Position   Läng Term Eing Datentyp
+------------------------------ ---------- ----- ---- ---- ---------------------
+WYPR_KDNR                           FIRST     *  WHT      CHARACTER            
+WYPR_MONAT                           NEXT     *  WHT      CHARACTER            
+WYPR_DATE                            NEXT     *  WHT      DATE YYYY-MM-DD      
+WYPR_GKK                             NEXT     *  WHT      CHARACTER            
+WYPR_VERSCHREIBER                    NEXT     *  WHT      CHARACTER            
+WYPR_BUNDESLAND                      NEXT     *  WHT      CHARACTER            
+WYPR_PZN                             NEXT     *  WHT      CHARACTER            
+WYPR_TOTAL                           NEXT     *  WHT      CHARACTER            
+WYPR_MITARBEITER                     NEXT     *  WHT      CHARACTER            
+
+Satz 1: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_DATE.
+ORA-01841: (Volles) Jahr muss zwischen -4713 und und +9999 liegen und darf nicht 0 sein
+
+Satz 304: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 577: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 755: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 886: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 887: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 888: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 889: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 890: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 891: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 892: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 893: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 894: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 895: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 896: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 897: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 898: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 899: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 900: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 901: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 902: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 903: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 904: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 905: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 906: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 907: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 908: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 909: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 910: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 911: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 912: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 913: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 914: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 915: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 916: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 917: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 918: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 919: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 920: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 921: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 922: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 923: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 924: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 925: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 926: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 927: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 928: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 929: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 930: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 931: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 932: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+
+MAXIMALE FEHLERZAHL ÜBERSCHRITTEN - Vorherige Statistik reflektiert partiellen Lauf.
+
+Tabelle TMP_T_WYETH_PRE:
+  881 Zeilen erfolgreich geladen.
+  51 Zeilen aufgrund von Datenfehlern nicht geladen.
+  0 Zeilen  nicht geladen, da alle WHEN-Klauseln fehlerhaft waren.
+  0 Zeilen nicht geladen, da alle Felder NULL waren.
+
+
+Zugewiesener Bereich für Bind-Array:            148608 Bytes (64 Zeilen)
+Byte in Lese-Puffer: 1048576
+
+Gesamtzahl der übersprungenen logischen Datensätze:        0
+Gesamtzahl der gelesenen logischen Datensätze:             932
+Gesamtzahl der abgelehnten logischen Datensätze:            51
+Gesamtzahl der zurückgewiesenen logischen Datensätze:        0
+
+Lauf begonnen am Mo Jul 18 18:33:22 2005
+Lauf beendet am Mo Jul 18 18:33:22 2005
+
+Abgelaufene Zeit:    00:00:00.17
+CPU-Zeit:             00:00:00.03

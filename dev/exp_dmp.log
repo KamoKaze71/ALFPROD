@@ -1,0 +1,496 @@
+
+Connected to: Oracle9i Enterprise Edition Release 9.2.0.8.0 - Production
+With the OLAP and Oracle Data Mining options
+JServer Release 9.2.0.8.0 - Production
+Export done in WE8ISO8859P1 character set and UTF8 NCHAR character set
+server uses WE8MSWIN1252 character set (possible charset conversion)
+
+About to export specified users ...
+. exporting pre-schema procedural objects and actions
+. exporting foreign function library names for user ALF2 
+. exporting foreign function library names for user INTRANETUSER 
+. exporting object type definitions for user ALF2 
+. exporting object type definitions for user INTRANETUSER 
+About to export ALF2's objects ...
+. exporting database links
+. exporting sequence numbers
+. exporting cluster definitions
+. about to export ALF2's tables via Conventional Path ...
+. . exporting table            AMS_T_ADMSANBEZ_MWL
+                                                            9 rows exported
+. . exporting table            AMS_T_ADMSANBEZ_WYL
+                                                           11 rows exported
+. . exporting table                  AMS_T_ADM_MWL
+                                                            9 rows exported
+. . exporting table                  AMS_T_ADM_WYL
+                                                           11 rows exported
+. . exporting table          AMS_T_FAKTHISTPOS_MWL
+.........................
+                                                        25258 rows exported
+. . exporting table          AMS_T_FAKTHISTPOS_WYL
+...........................................................................
+...........................................................................
+...........................................................................
+...........................................................................
+...........................................................................
+............................................
+                                                       419152 rows exported
+. . exporting table             AMS_T_FAKTHIST_MWL
+............
+                                                        12430 rows exported
+. . exporting table             AMS_T_FAKTHIST_WYL
+...........................................................................
+........................
+                                                        99937 rows exported
+. . exporting table               AMS_T_FIRMEN_MWL
+                                                          365 rows exported
+. . exporting table               AMS_T_FIRMEN_WYL
+                                                          763 rows exported
+. . exporting table                    AMS_T_KUNDE
+..............................
+                                                        30687 rows exported
+. . exporting table             AMS_T_LAGERORT_MWL
+.........
+                                                         9537 rows exported
+. . exporting table             AMS_T_LAGERORT_WYL
+...............
+                                                        15265 rows exported
+. . exporting table             AMS_T_PRODGRUP_MWL
+                                                           49 rows exported
+. . exporting table             AMS_T_PRODGRUP_WYL
+                                                           53 rows exported
+. . exporting table              AMS_T_PRODUKT_MWL
+                                                          196 rows exported
+. . exporting table              AMS_T_PRODUKT_WYL
+                                                          275 rows exported
+. . exporting table                   AMS_T_SANBEZ
+                                                          132 rows exported
+. . exporting table          AMS_T_STATARTIKEL_MWL
+...
+                                                         3487 rows exported
+. . exporting table     AMS_T_STATARTIKEL_MWL_ORIG
+                                                          968 rows exported
+. . exporting table          AMS_T_STATARTIKEL_WYL
+........................
+                                                        24157 rows exported
+. . exporting table     AMS_T_STATARTIKEL_WYL_ORIG
+....
+                                                         4716 rows exported
+. . exporting table          AMS_T_STATARTKUND_MWL
+............
+                                                        12912 rows exported
+. . exporting table     AMS_T_STATARTKUND_MWL_ORIG
+....
+                                                         4573 rows exported
+. . exporting table          AMS_T_STATARTKUND_WYL
+...........................................................................
+...........................................................................
+.................................
+                                                       183220 rows exported
+. . exporting table     AMS_T_STATARTKUND_WYL_ORIG
+.............................................
+                                                        45158 rows exported
+. . exporting table              AMS_T_STATTYP_MWL
+                                                            6 rows exported
+. . exporting table              AMS_T_STATTYP_WYL
+                                                            6 rows exported
+. . exporting table              MV_ACTIVE_PRODUCT
+                                                          581 rows exported
+. . exporting table       MV_AMS_ORDER_DETAILS_MWL
+.
+                                                         1211 rows exported
+. . exporting table       MV_AMS_ORDER_DETAILS_WYL
+...........................................................................
+...........................................................................
+...........................................................................
+...........................................................................
+...........................................................................
+...................
+                                                       394450 rows exported
+. . exporting table          MV_AMS_STATISTICS_MWL
+............
+                                                        12906 rows exported
+. . exporting table          MV_AMS_STATISTICS_WYL
+...........................................................................
+...........................................................................
+......................
+                                                       172413 rows exported
+. . exporting table                  MV_BACK_ORDER
+...........................................................................
+......................
+                                                        97373 rows exported
+. . exporting table                MV_DAILY_SALES5
+....
+                                                         4270 rows exported
+. . exporting table                  MV_GM_REPORT2
+                                                          810 rows exported
+. . exporting table                   MV_NET_SALES
+....
+                                                         4118 rows exported
+. . exporting table                    MV_ROYALITY
+                                                          570 rows exported
+. . exporting table                       MV_SALES
+...........................................................................
+...........................................................................
+...........................................................
+                                                       209427 rows exported
+. . exporting table              MV_SALES_PER_DAY2
+...........................................................................
+...........................................................................
+...........................................................................
+...........................................................................
+...........................................................................
+...........................................................................
+...........................................................................
+...........................................................................
+...........................................................................
+...........................................................................
+...........................................................................
+.........................................................................
+                                                       898807 rows exported
+. . exporting table     MV_SALES_PER_DAY_PROD_DESC
+...........................................................................
+...........................................................................
+...............................
+                                                       181608 rows exported
+. . exporting table                       MV_STOCK
+...........................................................................
+...........................................................................
+...........................................................................
+...........................................................................
+...........................................................................
+...........................................................................
+...........................................................................
+...........................................................................
+..............................................................
+                                                       662793 rows exported
+. . exporting table                  MV_STOCK_COGS
+...........................................................................
+.............
+                                                        88579 rows exported
+. . exporting table                     PLAN_TABLE
+                                                            0 rows exported
+. . exporting table            PLSQL_PROFILER_DATA
+                                                            0 rows exported
+. . exporting table            PLSQL_PROFILER_RUNS
+                                                            0 rows exported
+. . exporting table           PLSQL_PROFILER_UNITS
+                                                            0 rows exported
+. . exporting table             TMP_T_APO_BCOUNTRY
+..
+                                                         2166 rows exported
+. . exporting table                TMP_T_WYETH_ART
+                                                            0 rows exported
+. . exporting table                 TMP_T_WYETH_BW
+                                                            0 rows exported
+. . exporting table                 TMP_T_WYETH_KD
+                                                            0 rows exported
+. . exporting table                TMP_T_WYETH_PRE
+                                                            0 rows exported
+. . exporting table                 TMP_T_WYETH_RA
+........
+                                                         8872 rows exported
+. . exporting table                  TOAD_PLAN_SQL
+                                                            0 rows exported
+. . exporting table                TOAD_PLAN_TABLE
+.
+                                                         1761 rows exported
+. . exporting table              T_ACCOUNTING_CODE
+                                                           49 rows exported
+. . exporting table            T_ACCOUNTING_RECORD
+                                                           16 rows exported
+. . exporting table                  T_ALF_MESSAGE
+                                                            3 rows exported
+. . exporting table              T_APO_B_COUNTRIES
+...
+                                                         3024 rows exported
+. . exporting table          T_APPLICATION_SETTING
+                                                           37 rows exported
+. . exporting table              T_BACK_ORDER_HEAD
+...
+                                                         3850 rows exported
+. . exporting table          T_BACK_ORDER_POSITION
+.....
+                                                         5532 rows exported
+. . exporting table                       T_BUDGET
+..........
+                                                        10048 rows exported
+. . exporting table                         T_CODE
+                                                           85 rows exported
+. . exporting table                 T_COGS_HISTORY
+                                                          842 rows exported
+. . exporting table                      T_COUNTRY
+                                                           37 rows exported
+. . exporting table                     T_CURRENCY
+                                                            9 rows exported
+. . exporting table                     T_CUSTOMER
+.
+                                                         1985 rows exported
+. . exporting table               T_CUSTOMER_GROUP
+                                                            9 rows exported
+. . exporting table                 T_CUST_DISTRIB
+.
+                                                         1985 rows exported
+. . exporting table               T_CUST_SALES_REP
+...
+                                                         3994 rows exported
+. . exporting table                  T_DISTRIBUTOR
+                                                            3 rows exported
+. . exporting table               T_EXPORT_REPORTS
+                                                            5 rows exported
+. . exporting table                       T_FXRATE
+..........
+                                                        10735 rows exported
+. . exporting table                    T_GM_LAYOUT
+                                                          792 rows exported
+. . exporting table                      T_HOLIDAY
+.
+                                                         1857 rows exported
+. . exporting table               T_IMPORT_CONTROL
+                                                           57 rows exported
+. . exporting table              T_INVENTORY_LEVEL
+...........................................................................
+...........................................................................
+...........................................................................
+...........................................................................
+...........................................................................
+...........................................................................
+............................
+                                                       478678 rows exported
+. . exporting table                         T_LINE
+                                                            5 rows exported
+. . exporting table                         T_LOGS
+....................................
+                                                        36497 rows exported
+. . exporting table                         T_MENU
+                                                          107 rows exported
+. . exporting table                   T_ORDER_HEAD
+........................................................................
+                                                        72654 rows exported
+. . exporting table               T_ORDER_POSITION
+...........................................................................
+...........................................................................
+...........................................................
+                                                       209427 rows exported
+. . exporting table                           T_PM
+                                                          145 rows exported
+. . exporting table                 T_PRESCRIPTION
+........
+                                                         8141 rows exported
+. . exporting table                      T_PRODUCT
+.
+                                                         1437 rows exported
+. . exporting table                T_PRODUCT_GROUP
+                                                           16 rows exported
+. . exporting table               T_PRODUCT_REPORT
+                                                           18 rows exported
+. . exporting table                    T_SALES_REP
+                                                            0 rows exported
+. . exporting table               T_STATISTIC_TYPE
+                                                            3 rows exported
+. . exporting table                        T_STOCK
+.............
+                                                        13607 rows exported
+. . exporting table                    T_STOCK_TMP
+....
+                                                         4866 rows exported
+. . exporting table                       T_TARGET
+                                                          174 rows exported
+. . exporting table                    T_TARGET_PG
+                                                            4 rows exported
+. . exporting table                 T_TARGET_PG_SR
+                                                           88 rows exported
+. . exporting table                 T_TRANSMISSION
+.
+                                                         1595 rows exported
+. exporting synonyms
+. exporting views
+. exporting stored procedures
+. exporting operators
+About to export INTRANETUSER's objects ...
+. exporting database links
+. exporting sequence numbers
+. exporting cluster definitions
+. about to export INTRANETUSER's tables via Conventional Path ...
+. . exporting table                    ABSENCETYPE
+                                                            6 rows exported
+. . exporting table          ABSENCETYPE_V_ABSENCE
+                                                           11 rows exported
+. . exporting table                       ACCESSES
+                                                           64 rows exported
+. . exporting table                    ADDRESSBOOK
+                                                          198 rows exported
+. . exporting table              ADDRESSBOOK_TEXTS
+                                                           18 rows exported
+. . exporting table        ADDRESSBOOK_TEXTS_TYPES
+                                                            3 rows exported
+. . exporting table             ALL_ABSENCE_PLANER
+.
+                                                         1085 rows exported
+. . exporting table       AUTOMATED_INTRANET_ERROR
+....
+                                                         4769 rows exported
+. . exporting table                     BLACKBOARD
+                                                            4 rows exported
+. . exporting table                BLACKCATEGORIES
+                                                            4 rows exported
+. . exporting table                      COMPANIES
+                                                            4 rows exported
+. . exporting table                      COUNTRIES
+                                                           24 rows exported
+. . exporting table                    DEPARTMENTS
+                                                           12 rows exported
+. . exporting table                      DIVISIONS
+                                                            3 rows exported
+. . exporting table           EDETAILING_HIERARCHY
+                                                           22 rows exported
+. . exporting table            EDETAILING_TRACKING
+                                                           40 rows exported
+. . exporting table                         GROUPS
+                                                           57 rows exported
+. . exporting table                  INTRANET_BUGS
+                                                          128 rows exported
+. . exporting table                  JOBCATEGORIES
+                                                            9 rows exported
+. . exporting table                           JOBS
+                                                            0 rows exported
+. . exporting table                          JOKES
+                                                           19 rows exported
+. . exporting table                        JOURNEY
+                                                            2 rows exported
+. . exporting table                        KYNGALI
+                                                            1 rows exported
+. . exporting table            LINKS_GROUPS_ACCESS
+                                                          207 rows exported
+. . exporting table               LINKS_GROUP_USER
+.
+                                                         1097 rows exported
+. . exporting table      LINKS_GROUP_USER_SNAPSHOT
+                                                            6 rows exported
+. . exporting table  LINKS_GROUP_USER_SNAPSHOTDATA
+                                                          408 rows exported
+. . exporting table             LINKS_USERS_ACCESS
+                                                            1 rows exported
+. . exporting table          LINKS_USER_PERMISSION
+                                                           38 rows exported
+. . exporting table          MICROSOFTDTPROPERTIES
+                                                            0 rows exported
+. . exporting table                       MISSIONS
+                                                          310 rows exported
+. . exporting table                        MODULES
+                                                           22 rows exported
+. . exporting table                           NEWS
+EXP-00003: no storage definition found for segment(10, 2617)
+. . exporting table                       ORG_UNIT
+                                                            1 rows exported
+. . exporting table                    PERMISSIONS
+                                                            8 rows exported
+. . exporting table                  PH_CATEGORIES
+                                                            3 rows exported
+. . exporting table                    PH_TODOLIST
+                                                            2 rows exported
+. . exporting table               RESOURCEN_MAILER
+.
+                                                         1690 rows exported
+. . exporting table                      RPIS_MAIL
+                                                           24 rows exported
+. . exporting table                 SALE_INQUIRIES
+                                                            5 rows exported
+. . exporting table                  SALE_PRINTERS
+                                                           46 rows exported
+. . exporting table                     SALE_USERS
+                                                            0 rows exported
+. . exporting table                       SETTINGS
+                                                            1 rows exported
+. . exporting table                      SMS_GROUP
+                                                           11 rows exported
+. . exporting table               TBLCOMPANY_CODES
+                                                          114 rows exported
+. . exporting table                     TBLCOUNTRY
+                                                           10 rows exported
+. . exporting table               TBLCOUNTRY_CODES
+                                                          237 rows exported
+. . exporting table              TBLCURRENCY_CODES
+                                                          181 rows exported
+. . exporting table                        TBLDALI
+.........
+                                                         9409 rows exported
+. . exporting table                    TBLDALIDISC
+                                                           15 rows exported
+. . exporting table                     TBLDEVISEN
+                                                           61 rows exported
+. . exporting table                     TBLDOMAINS
+                                                          234 rows exported
+. . exporting table               TBLDOMAIN_STATUS
+                                                            4 rows exported
+. . exporting table                         TBLFAQ
+                                                            5 rows exported
+. . exporting table                      TBLFILTER
+                                                           77 rows exported
+. . exporting table                TBLFILTER_USERS
+.
+                                                         1756 rows exported
+. . exporting table             TRAININGS_TRAINING
+                                                            1 rows exported
+. . exporting table        TRAININGS_TRAINING_USER
+                                                            0 rows exported
+. . exporting table                    TTBLABSENCE
+.....
+                                                         5771 rows exported
+. . exporting table                TTBLABSENCETYPE
+                                                            5 rows exported
+. . exporting table                      TTBLEVENT
+...
+                                                         3562 rows exported
+. . exporting table              TTBLEVENTCATEGORY
+                                                            9 rows exported
+. . exporting table                   TTBLLOCATION
+                                                            3 rows exported
+. . exporting table                  TTBLPOWERUSER
+                                                            0 rows exported
+. . exporting table                TTBLRESERVATION
+....
+                                                         4601 rows exported
+. . exporting table                   TTBLRESOURCE
+                                                           44 rows exported
+. . exporting table           TTBLRESOURCECATEGORY
+                                                           17 rows exported
+. . exporting table      TTBLTELECONFERENCESETTING
+                                                            0 rows exported
+. . exporting table                          USERS
+                                                          375 rows exported
+. . exporting table                      USERS_OLD
+                                                            4 rows exported
+. . exporting table         USER_FORTE_LOCAL_ADMIN
+                                                            5 rows exported
+. . exporting table           USER_HAS_RIGHTS_OVER
+                                                          542 rows exported
+. . exporting table                  USER_SMSGROUP
+                                                           96 rows exported
+. exporting synonyms
+. exporting views
+. exporting stored procedures
+. exporting operators
+. exporting referential integrity constraints
+. exporting triggers
+. exporting indextypes
+. exporting bitmap, functional and extensible indexes
+. exporting posttables actions
+. exporting snapshots
+. exporting snapshot logs
+. exporting job queues
+. exporting refresh groups and children
+. exporting dimensions
+. exporting referential integrity constraints
+. exporting triggers
+. exporting indextypes
+. exporting bitmap, functional and extensible indexes
+. exporting posttables actions
+. exporting snapshots
+. exporting snapshot logs
+. exporting job queues
+. exporting refresh groups and children
+. exporting dimensions
+. exporting post-schema procedural objects and actions
+. exporting statistics
+Export terminated successfully with warnings.

@@ -1,0 +1,68 @@
+
+SQL*Loader: Release 9.2.0.5.0 - Production on Mo Jan 9 08:36:04 2006
+
+Copyright (c) 1982, 2002, Oracle Corporation.  All rights reserved.
+
+Kontrolldatei:    d:\intranet\application_alf\import\ControlFiles\Pharmosan.ctl
+Datendatei:     d:\intranet\application_alf\import\Dezember_2005_Enbrel.txt
+  Datei fehlerhafter Sätze:d:\intranet\application_alf\import\Dezember_2005_Enbrel.txt.bad
+  Datei für zurückgewiesene Sätze:  nichts spezifiziert
+ 
+ (alle Discards zulassen)
+
+Zu ladende Anzahl:     ALL
+Zu überspringende Anzahl: 0
+Zulässige Fehler:          50
+Bind-Array:     64 Zeilen, maximal 256000 Bytes
+Fortsetzung:    nichts spezifiziert
+Benutzer Pfad:      Konventionell
+
+Tabelle TMP_T_WYETH_PRE, geladen von jedem logischen Satz.
+Insert-Option in Kraft für diese Tabelle: INSERT
+
+   Spaltenname                  Position   Läng Term Eing Datentyp
+------------------------------ ---------- ----- ---- ---- ---------------------
+WYPR_KDNR                           FIRST     *  WHT      CHARACTER            
+WYPR_MONAT                           NEXT     *  WHT      CHARACTER            
+WYPR_DATE                            NEXT     *  WHT      DATE YYYY-MM-DD      
+WYPR_GKK                             NEXT     *  WHT      CHARACTER            
+WYPR_VERSCHREIBER                    NEXT     *  WHT      CHARACTER            
+WYPR_BUNDESLAND                      NEXT     *  WHT      CHARACTER            
+WYPR_PZN                             NEXT     *  WHT      CHARACTER            
+WYPR_TOTAL                           NEXT     *  WHT      CHARACTER            
+WYPR_MITARBEITER                     NEXT     *  WHT      CHARACTER            
+
+Satz 1: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_DATE.
+ORA-01841: (Volles) Jahr muss zwischen -4713 und und +9999 liegen und darf nicht 0 sein
+
+Satz 382: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 661: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 922: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 1112: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+Satz 1113: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_PRE, Spalte WYPR_MITARBEITER.
+Spalte vor logischem Satzende nicht gefunden (TRAILING NULLCOLS benutzen)
+
+Tabelle TMP_T_WYETH_PRE:
+  1107 Zeilen erfolgreich geladen.
+  6 Zeilen aufgrund von Datenfehlern nicht geladen.
+  0 Zeilen  nicht geladen, da alle WHEN-Klauseln fehlerhaft waren.
+  0 Zeilen nicht geladen, da alle Felder NULL waren.
+
+
+Zugewiesener Bereich für Bind-Array:            148608 Bytes (64 Zeilen)
+Byte in Lese-Puffer: 1048576
+
+Gesamtzahl der übersprungenen logischen Datensätze:        0
+Gesamtzahl der gelesenen logischen Datensätze:            1113
+Gesamtzahl der abgelehnten logischen Datensätze:             6
+Gesamtzahl der zurückgewiesenen logischen Datensätze:        0
+
+Lauf begonnen am Mo Jan 09 08:36:04 2006
+Lauf beendet am Mo Jan 09 08:36:07 2006
+
+Abgelaufene Zeit:    00:00:02.55
+CPU-Zeit:             00:00:00.04

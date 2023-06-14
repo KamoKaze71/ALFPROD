@@ -1,0 +1,38 @@
+TD, BODY
+{
+	font-size:5pt;
+	font-family:Verdana;
+}
+
+.HL 
+{
+	background-color:#FFF;
+	color:Black;
+	font-size:12pt;
+	font-weight:bold;
+}
+
+.head, .head TH
+{
+	color:Black;
+	font-size:6pt;
+	font-weight:bold;
+}
+
+.reportTotal TD
+{
+	background-color:#666;
+	font-weight:bold;
+	color:White;
+}
+
+.noprint 			
+{
+	display: none;
+}
+
+.forPrint
+{
+	display:block;
+}
+

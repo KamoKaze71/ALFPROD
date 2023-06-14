@@ -1,0 +1,72 @@
+
+SQL*Loader: Release 9.2.0.5.0 - Production on So Okt 8 05:00:45 2006
+
+Copyright (c) 1982, 2002, Oracle Corporation.  All rights reserved.
+
+Kontrolldatei:    d:\intranet\application_alf\import\ControlFiles\WYETH_BW.ctl
+Datendatei:     d:\intranet\application_alf\import\muenster_file_import\JDE_ALF_20061006.dat
+  Datei fehlerhafter Sätze:d:\intranet\application_alf\import\muenster_file_import\JDE_ALF_20061006.dat.bad
+  Datei für zurückgewiesene Sätze:  nichts spezifiziert
+ 
+ (alle Discards zulassen)
+
+Zu ladende Anzahl:     ALL
+Zu überspringende Anzahl: 0
+Zulässige Fehler:          50
+Bind-Array:     64 Zeilen, maximal 256000 Bytes
+Fortsetzung:    nichts spezifiziert
+Benutzer Pfad:      Konventionell
+
+Tabelle TMP_T_WYETH_BW, geladen von jedem logischen Satz.
+Insert-Option in Kraft für diese Tabelle: APPEND
+
+   Spaltenname                  Position   Läng Term Eing Datentyp
+------------------------------ ---------- ----- ---- ---- ---------------------
+WYBW_BELEGART                         1:2     2           CHARACTER            
+WYBW_KDNRWARE                         3:7     5           CHARACTER            
+WYBW_KDNRRECH                        8:12     5           CHARACTER            
+WYBW_PHZNR                          13:27    15           CHARACTER            
+WYBW_MENGE                          28:36     9           CHARACTER            
+WYBW_MENGEVORZ                      37:37     1           CHARACTER            
+WYBW_WERT                           38:50    13           CHARACTER            
+WYBW_WERTVORZ                       51:51     1           CHARACTER            
+WYBW_VKART                          52:52     1           CHARACTER            
+WYBW_CURR                           53:55     3           CHARACTER            
+WYBW_BESTAND                        56:64     9           CHARACTER            
+WYBW_BESTANDVORZ                    65:65     1           CHARACTER            
+WYBW_QKZ                            66:66     1           CHARACTER            
+WYBW_BEWEGKZ                        67:68     2           CHARACTER            
+WYBW_RECHDAT                        69:76     8           DATE YYYYMMDD        
+WYBW_CHARGE                         77:91    15           CHARACTER            
+WYBW_EXPYEAR                        92:95     4           CHARACTER            
+WYBW_EXPMONTH                       96:97     2           CHARACTER            
+WYBW_ANFONR                        98:107    10           CHARACTER            
+WYBW_AUFNR                        108:113     6           CHARACTER            
+WYBW_INFO                         114:138    25           CHARACTER            
+WYBW_TRANSNR                      139:146     8           CHARACTER            
+WYBW_LFDNR                        147:151     5           CHARACTER            
+WYBW_TRANSDAT                     152:159     8           DATE YYYYMMDD        
+WYBW_LIEFERANT                    160:164     5           CHARACTER            
+WYBW_GSKZ                         165:165     1           CHARACTER            
+
+
+Tabelle TMP_T_WYETH_BW:
+  13 Zeilen erfolgreich geladen.
+  0 Zeilen aufgrund von Datenfehlern nicht geladen.
+  0 Zeilen  nicht geladen, da alle WHEN-Klauseln fehlerhaft waren.
+  0 Zeilen nicht geladen, da alle Felder NULL waren.
+
+
+Zugewiesener Bereich für Bind-Array:             14976 Bytes (64 Zeilen)
+Byte in Lese-Puffer: 1048576
+
+Gesamtzahl der übersprungenen logischen Datensätze:        0
+Gesamtzahl der gelesenen logischen Datensätze:              13
+Gesamtzahl der abgelehnten logischen Datensätze:             0
+Gesamtzahl der zurückgewiesenen logischen Datensätze:        0
+
+Lauf begonnen am So Okt 08 05:00:45 2006
+Lauf beendet am So Okt 08 05:00:45 2006
+
+Abgelaufene Zeit:    00:00:00.04
+CPU-Zeit:             00:00:00.00

@@ -1,0 +1,83 @@
+.headers 
+{
+	PADDING: 15px;
+	width:140px;
+}
+
+.line 
+{
+	BACKGROUND-COLOR: #aaa;
+}
+
+.section 
+{
+	BORDER-BOTTOM: #aaa 2px solid 
+}
+
+.item 
+{
+	PADDING: 4px; 
+	MARGIN: 2px; 
+	BACKGROUND-COLOR: #eee
+}
+
+.dgitem 
+{
+	PADDING: 4px; 
+	MARGIN: 2px;
+	BORDER-BOTTOM: #fff 4px solid; 
+	BACKGROUND-COLOR: #eee
+}
+
+#toggleCustomers 
+{
+	FONT-SIZE: 8pt; 
+	MARGIN-BOTTOM: 15px
+}
+
+.salesRep 
+{
+	width:150;
+	padding-right:5px;
+	margin-right:10px;
+	background-color:White;
+	border-right:1px solid #AAAAAA;
+	border-bottom:1px solid #AAAAAA;
+}
+
+@media Print 
+{
+	.dgitem 
+	{
+		background:#fff;
+		padding-top:15px;
+		border-bottom:1px solid #aaa;
+	}
+	
+	.salesRep 
+	{
+		background-color:eee;
+		width:120px;
+		border-right:0px solid #AAAAAA;
+		border-bottom:0px solid #AAAAAA;
+	}
+	
+	.headers 
+	{
+		width:0px;
+		display:none;
+	}
+	
+	.section 
+	{
+		border-bottom:0px solid #fff;
+	}
+	
+	.title 
+	{
+		font-size:8pt;
+		font-weight:bold;
+		padding:10px;
+		text-decoration:underline;
+	}
+}

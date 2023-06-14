@@ -1,0 +1,132 @@
+@media Screen 
+{ 
+	BODY 
+	{
+		PADDING-RIGHT: 0px; 
+		PADDING-LEFT: 0px; 
+		PADDING-BOTTOM: 0px; 
+		PADDING-TOP: 0px; 
+		BACKGROUND-IMAGE: url(images/toolbar.jpg); 
+		BACKGROUND-REPEAT: repeat-x; 
+		MARGIN: 0px; 
+		COLOR: black; 
+		HEIGHT: 100% 
+	}
+	.toolbar 
+	{
+		PADDING-RIGHT: 1cm; 
+		BACKGROUND-IMAGE: url(images/toolbar.jpg); 
+		BACKGROUND-REPEAT: repeat-x; 
+		POSITION: absolute; 
+		WIDTH: 100%; 
+		TOP: 0px;
+		LEFT: 0px; 
+	}
+	.rect1 
+	{
+		BORDER-RIGHT: #9a9a9a 0.5pt dashed; 
+		PADDING-RIGHT: 1mm; 
+		BORDER-TOP: #9a9a9a 0.5pt dashed; 
+		PADDING-LEFT: 1mm; 
+		PADDING-BOTTOM: 1mm; 
+		OVERFLOW: hidden; 
+		BORDER-LEFT: #9a9a9a 0.5pt dashed; 
+		WIDTH: 190mm; 
+		PADDING-TOP: 1mm; 
+		BORDER-BOTTOM: #9a9a9a 0.5pt dashed; 
+		POSITION: static; 
+		HEIGHT: 260mm; 
+		max-HEIGHT: 260mm 
+	}
+	.rect2 
+	{
+		BORDER-RIGHT: #9a9a9a 0.5pt dashed; 
+		PADDING-RIGHT: 1mm; 
+		BORDER-TOP: #9a9a9a 0.5pt dashed; 
+		PADDING-LEFT: 1mm; 
+		PADDING-BOTTOM: 1mm; 
+		OVERFLOW: hidden; 
+		BORDER-LEFT: #9a9a9a 0.5pt dashed; 
+		WIDTH: 260mm; PADDING-TOP: 1mm; 
+		BORDER-BOTTOM: #9a9a9a 0.5pt dashed; 
+		POSITION: static; 
+		HEIGHT: 175mm; 
+		max-HEIGHT: 175mm 
+	}
+	.printWhite1 
+	{
+		BORDER-RIGHT: #000000 0.5pt solid; 
+		BORDER-TOP: #000000 0.5pt solid; 
+		BORDER-LEFT: #000000 0.5pt solid; 
+		WIDTH: 209mm; 
+		PADDING-TOP: 15mm; 
+		BORDER-BOTTOM: #000000 0.5pt solid; 
+		POSITION: static; 
+		HEIGHT: 296mm; 
+		BACKGROUND-COLOR: #ffffff 
+	}
+	.printWhite2 
+	{
+		BORDER-RIGHT: #000000 0.5pt solid; 
+		BORDER-TOP: #000000 0.5pt solid; 
+		BORDER-LEFT: #000000 0.5pt solid; 
+		WIDTH: 296mm; PADDING-TOP: 15mm; 
+		BORDER-BOTTOM: #000000 0.5pt solid; 
+		POSITION: static; HEIGHT: 209mm; 
+		BACKGROUND-COLOR: #ffffff 
+	}
+	.printBlack1 
+	{
+		BORDER-RIGHT: #aaa 1mm solid; 
+		WIDTH: 210mm; 
+		BORDER-BOTTOM: #aaa 1mm solid; 
+		POSITION: static; 
+		HEIGHT: 297mm 
+	}
+	.printBlack2 
+	{
+		BORDER-RIGHT: #aaa 1mm solid; 
+		WIDTH: 297mm; 
+		BORDER-BOTTOM: #aaa 1mm solid; 
+		POSITION: static; 
+		HEIGHT: 210mm 
+	}
+	.page1 
+	{
+		MARGIN: 0cm;
+		TEXT-ALIGN: center 
+	}
+	.page2 
+	{
+		MARGIN: 0cm; 
+		TEXT-ALIGN: center 
+	}
+	.waiting
+	{
+		 z-index: 1000; 
+		 BACKGROUND-COLOR:#b0c4de; 
+		 BORDER-RIGHT:black 1px solid; 
+		 BORDER-TOP:black 1px solid; 
+		 BORDER-LEFT:black 1px solid; 
+		 BORDER-BOTTOM:black 1px solid; 
+		 POSITION:absolute; 
+		 WIDTH:150px; 
+		 HEIGHT:60px; 
+		 FILTER:alpha(opacity=80); 
+		 moz-opacity:.8
+	}
+	.mainDiv 
+	{
+		MARGIN-TOP: 30px; 
+		Z-INDEX: 1; 
+		MARGIN-LEFT: 2cm;
+	}
+}
+@media Print 
+{
+	.toolbar 
+	{
+		DISPLAY: none 
+	}
+}
+	

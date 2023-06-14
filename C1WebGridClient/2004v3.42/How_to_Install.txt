@@ -1,0 +1,46 @@
+Installing Hotfixes
+-------------------
+
+Unzip the C1.Web.C1WebGrid.dll to the <installdir>\bin folder. 
+
+If the .zip file contains new client side java script (client\v1_*) then
+you should unzip them to the <installdir>\c1webgrid folder.
+
+Remove the following assemblies from the GAC:
+
+C1.Web.C1WebGrid.dll
+
+Install the new dlls you just put in the <installdir>\bin into
+the GAC (this step is optional, not recommended).
+
+To install the assemblies into the GAC:
+
+*  Open the Visual Studio .NET Command prompt and cd into the
+   <installdir>\bin folder.
+
+   Type "gacutil /if c1.web.c1webgrid.dll" at the command prompt. This will install
+   the assemblies into the GAC.
+
+OR
+
+*  You can use Windows Explorer and drag the assemblies into the GAC.
+
+Restart IIS.
+
+License nag
+-----------
+
+If the assembly version of C1.Web.C1WebGrid.dll has changed you'll most likely
+get the evaluation nag screen when rebuilding your application.  This is a result
+of the the assembly having a strong name.  The easiest way to alleviate the problem
+is by changing a property of the grid, this should update the license.licx file.
+
+Intellisense
+------------
+
+If you would like to have Intellisense in HTML view you should place c1webgrid.xsd into
+your <VS installdir>\common7\packages\schemas\xml folder.  Add the following xmlns:c1webgrid
+element on any page in which you want Intellisense:
+
+<body xmlns:c1webgrid="urn:http://www.componentone.com/schemas/c1webgrid">
+

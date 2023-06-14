@@ -1,0 +1,344 @@
+/***** SOME BASIC DEFINITIONS ************************************************/
+A						{ color:#339;text-decoration:none; }
+A:visited				{ color:#339;text-decoration:none; }
+A:hover					{ color:#f00;text-decoration:none; }
+SELECT					{ background-color:#FFFFFF;font-family:Verdana,Arial,Helvetica; font-size:8pt; color:#041F7B;border: 1px solid #818181; }
+HR						{ height:1px;color:#000; }
+UL						{ list-style-image:url(/images/list_bullet.gif);list-style-position:outside }
+FIELDSET				{ padding:5px;border:1px solid #CCC; }
+LEGEND					{ padding:5px;font-family:tahoma;font-size:9pt;color:#6169BA;font-weight:bold; }
+
+.small					{ font-family:verdana;color:#383838;font-size:7pt; }
+
+/***** MAIN-COLOR FOR THE SITE(RED) FOR TEXTS ************************************************/
+.mainCol				{ color:#BB0606; }
+
+/***** MAIN-COLOR FOR THE SITE(RED) FOR BACKGROUNDS ************************************************/
+.stdbg					{ background-color:#BB0606; }
+.lightbg				{ background-color:#FEE8E7; }
+.lightbg2				{ background-color:#E9F3F2; }
+.highlight				{ color:#CC6100; }
+
+/***** THIS IS SHOULD ALWAYS BEEN USED AT BOXED. LISTS INSIDE ETC. ************************************************/
+.infobox				{ background-color:#FFFFEE;border:1px solid #FFCC00;padding:6px; }
+
+/***** HIERARCHIAL HEADLINES ************************************************/
+.HL2					{ BACKGROUND-COLOR: #C0C3E3;COLOR: #000;FONT: 11px vardana;PADDING-BOTTOM: 2px;PADDING-LEFT: 10px;PADDING-RIGHT: 10px;PADDING-TOP: 2px;}
+.HL3					{ BACKGROUND-COLOR: #FFFFFF; BORDER-BOTTOM: #999 1px solid;  BORDER-TOP: #999 1px solid; COLOR: #000; FONT: 11px vardana; }
+.endline				{ background-color: #E5F1EF;padding:2px; }
+
+/***** FOR FORMFIELDS. ************************************************/
+.formField				{ background-color:#FFFFFF;font-family:Verdana,Arial,Helvetica; font-size:8pt; color:#041F7B; width:100%; border: 1px solid #818181;padding-left:2px; }
+.formFieldNumber		{ background-color:#FFFFFF;font-family:Verdana,Arial,Helvetica; font-size:8pt; color:#041F7B; width:100%; border: 1px solid #818181;padding-left:2px; text-align:right  }
+.formField_enter		{ background-color:#FFFFFF;font-family:Verdana,Arial,Helvetica; font-size:8pt; color:#041F7B; width:90px; border: 1px solid #818181;padding-left:2px; }
+.field					{ font-family:Verdana,Arial,Helvetica; font-size:9pt; color:#2E515C; }
+
+/***** FOR THE DRAWFORM-CLASS ************************************************/
+.success {
+	background-color:#FFF;
+	padding:10px;
+	font-weight:bold;
+	color:#0D5904;
+	border-bottom:1px dotted #0D5904;
+	border-top:1px dotted #0D5904;
+	font-family:verdana;
+	font-size:10pt; 
+}
+
+.nosuccess {
+	background-color:#FFF;
+	padding:10px;
+	font-weight:bold;
+	color:#FF0000;
+	border-bottom:1px dotted #FF0000;
+	border-top:1px dotted #FF0000;
+	font-family:verdana;
+	font-size:10pt; 
+}
+
+/***** DEFAULT BUTTON ************************************************/
+.button					{ background-color:#C50202; FONT: 8pt tahoma; color:#FFF; border: 2px outset #ddd;
+						  background-image:url(/images/bg_button.gif);background-position:right; background-repeat:no-repeat;padding-right:13px;padding-left:3px; }
+.button_common			{ background-color:#F4F4F4;font:7pt;font-family:Verdana,Arial,Helvetica; font-size:7pt; color:#313142; border: 1px groove #B9B9B9;background-image:url();padding:0px;cursor:hand; }
+						  
+/***** COOL EFFECT FOR SHADOWED TEXT. DISABLED TRANSPARENT TEXT-FIELD ************************************************/
+.efFlat 				{ color:#006A00; background-color:transparent; border-style: solid;border-width: 0px; }
+
+/***** FOR THE PAGE FOOTER ************************************************/
+.footer					{ color:#999;font-family:verdana;font-size:7pt; }
+.footer:hover			{ color:#999; }
+.footer:visited			{ color:#999; }
+.footer:active			{ color:#999; }
+
+
+/***** FOR THE TABLE-CLASS ************************************************/
+.headline 											{ color:#6169ba;font-family:tahoma;background-color:#fff;font-size:16px;font-weight:bold;padding-left:10px;letter-spacing:1px; } 
+.searchField										{ background-color:#FFFFFF;font-family:Verdana,Arial,Helvetica; font-size:9pt; color:#B9B9B9; width:100%; border: 1px solid #838383; }
+.headlineBG											{ background-color:#fff; }
+.tableMouseoverColor								{ background-color:#FCF1A7; }
+.found 												{ color:#F07800; }
+.currentSort										{ color:#D4D0C8; font-weight:bold; font-size:7pt;letter-spacing:-1px;font-family:arial; }
+.pagingLink,.pagingLink:visited						{ color:#3E3E3E;text-decoration:none; }
+.pagingCurrentPage,.pagingCurrentPage:visited		{ color:#BB0606;font-weight:bold; }
+.pagingPrevNext,.pagingPrevNext:visited				{ color:#3E3E3E;font-size:10pt;text-decoration:none;letter-spacing:-2px; }
+.filterBG											{ background-color:#C0C3E3; }
+.dotting											{ border-top:1px solid #6169BA; }
+.tableFooterBG										{ background-color:#E9F3F2; }
+.filterDropdown										{ width:100% }
+
+
+/*******************************************************************************************************/
+/* JUST ALF STYLES */
+/*******************************************************************************************************/
+
+.reportGroupArea
+{
+	background-color:#DDD;
+}
+
+.reportGroupFooter1st TD, .reportGroupFooter1st SPAN
+{
+	background-color:#C0C3E3;
+	font-weight:bold;
+	font-family:tahoma;
+}
+
+.reportGroupFooter TD, .reportGroupFooter SPAN
+{
+	background-color:#DDD;
+	font-weight:bold;
+	font-family:tahoma;
+}
+
+.forPrint 
+{
+	display:none;
+}
+
+.reportTotal TD, .reportTotal SPAN
+{
+	background-color:#BB0606;
+	color:#fff;
+	font-weight:bold;
+	font-family:tahoma;
+}
+
+.reportSummary
+{
+	font-size:8pt;	
+}
+
+.reportSummaryField
+{
+	font-weight:bold;
+}
+
+.currency
+{
+	color:#6169ba;
+	text-align:left; 
+}
+
+.tableBgColor1Class	{ background-color:#EEE; }
+.tableBgColor2Class	{ background-color:#FFF; }
+
+BODY					{ FONT-size: 11px; font-family:verdana; color:#3E3E3E; }
+TD						{ FONT-size: 7pt; font-family:verdana; color:#3E3E3E; }
+
+.dg
+{
+	border-collapse:collapse;
+}
+
+.dg TH
+{
+	border-bottom:solid 2px #545454;
+	font-family:Verdana;
+	text-align:center;
+	font-size:8pt;
+}
+
+.headCommon	 TD
+{
+	border-bottom:solid 2px #545454;
+	text-align:center;
+	font-size:8pt;
+	font-family:Verdana;
+	color:#BB0606; /*6169ba*/
+	background-color:#FFF;
+	text-decoration:none;
+}
+
+.headlineSeperator
+{
+	border-right:solid 2px #545454;
+}
+
+.headlineSeperatorLeft
+{
+	border-left:solid 2px #545454;
+}
+
+.headlineSeperatorBoth
+{
+	border-left:solid 2px #545454;
+	border-right:solid 2px #545454;
+}
+ 
+.dg TD
+{
+	border:1px solid #ADADAD;
+	border-top-color:#646464;
+	border-bottom-color:#646464;
+}
+
+.head, .head:hover, .head:visited
+{
+	font-family:Tahoma;
+	font-size:8pt;
+	color:#BB0606; /*6169ba*/
+	background-color:#FFF;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+.tableBgColorErrorClass
+{
+	background-color: #ff9966;
+}
+
+.tableGroupFooterBG
+{
+	font-weight: bold;
+	font-size: 12pt;
+	background-color: #e9f3f2;
+}
+
+.gridPanel
+{
+	display: block;
+	overflow: visible;
+	position: static;
+	top: 5px;
+	height: 10px;
+	text-align: center;
+}
+
+.ReportPanel
+{
+	display: block;
+	left: 5px;
+	margin: 2px;
+	overflow: visible;
+	width: 100%;
+	position: static;
+	top: 5px;
+	height: 10px;
+	text-align: center;
+}
+
+.Filterpanel
+{
+	padding-right: 5px;
+	display: inline;
+	padding-left: 5px;
+	padding-bottom: 3px;
+	width: 100%;
+	padding-top: 5px;
+	position: static;
+	top: 10px;
+	height: 20px;
+	background-color: white;
+	text-align: left;
+}
+.EditPanel
+{
+	border-right: black 1pt solid;
+	border-top: black 1pt solid;
+	left: 5px;
+	overflow: visible;
+	border-left: black 1pt solid;
+	width: 95%;
+	border-bottom: black 1pt solid;
+	position: relative;
+	top: 5px;
+	height: 10px;
+	background-color: GhostWhite;
+}
+.lblPageTitle
+{
+	padding-right: 10px;
+	display: block;
+	padding-left: 10px;
+	font-weight: bold;
+	font-size: 16px;
+	padding-bottom: 3px;
+	margin: 3px;
+	vertical-align: baseline;
+	overflow: visible;
+	color: #6169ba;
+	padding-top: 3px;
+	font-family: tahoma;
+	letter-spacing: 1px;
+	position: relative;
+	background-color: white;
+	text-align: center;
+}
+.grid
+{
+	width: 100%;
+	position: static;
+}
+.headerPanel
+{
+	left: 2px;
+	position: absolute;
+	top: 50px;
+}
+
+
+.reportsFilter 
+{
+	padding:5px;
+	background-color:#FFF;
+}
+
+.reportsButtonBar
+{
+	padding-right: 5px;
+	border-top: #aaa 1px dotted;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	border-bottom: #aaa 1px dotted;
+	background-color: #eee;
+	text-align: center;
+}
+.HL
+{
+	BACKGROUND-COLOR: #6169ba;
+	BORDER-BOTTOM: #000 1px solid;
+	COLOR: #fff;FONT: 11px vardana;
+	font-weight:bold;
+	MARGIN: 0px;
+	font-size:10pt;
+	PADDING-BOTTOM: 2px;
+	PADDING-LEFT: 10px;
+	PADDING-RIGHT: 10px;
+	PADDING-TOP: 2px;
+}
+.item 
+{
+	PADDING: 4px; 
+	MARGIN: 2px; 
+	BACKGROUND-COLOR: #eee
+}
+.test
+{
+	visibility: hidden;
+	color: red;
+}
+
+

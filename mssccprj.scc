@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[Alf.vbproj]
+SCC_Aux_Path = "\\10.248.57.232\oratest\code_repository\wyeth_vss"
+SCC_Project_Name = "$/ALFPROD_VSS.root/ALF", HFCAAAAA
+
+[ALFPROD_VSS.sln]
+SCC_Aux_Path = "\\10.248.57.232\oratest\code_repository\wyeth_vss"
+SCC_Project_Name = "$/ALFPROD_VSS.root/ALF", HFCAAAAA

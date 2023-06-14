@@ -1,0 +1,404 @@
+﻿Uninstalling assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Removing EventLog source ALFservice.
+Warning: The source ALFservice is not registered on the local machine.
+Service ALFservice is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Installing service ALFservice...
+Service ALFservice has been successfully installed.
+Creating EventLog source ALFservice in log Application...
+Committing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Uninstalling assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Removing EventLog source ALFservice.
+Service ALFservice is being removed from the system...
+Service ALFservice was successfully removed from the system.
+Installing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Installing service ALFservice...
+Service ALFservice has been successfully installed.
+Creating EventLog source ALFservice in log Application...
+Committing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Uninstalling assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Removing EventLog source ALFservice.
+Service ALFservice is being removed from the system...
+Service ALFservice was successfully removed from the system.
+Installing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Installing service ALFservice...
+Creating EventLog source ALFservice in log Application...
+Rolling back assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Restoring event log to previous state for source ALFservice.
+Installing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Installing service ALFservice...
+Service ALFservice has been successfully installed.
+Creating EventLog source ALFservice in log Application...
+Committing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Uninstalling assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Removing EventLog source ALFservice.
+Service ALFservice is being removed from the system...
+Service ALFservice was successfully removed from the system.
+Installing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Installing service ALFservice...
+Service ALFservice has been successfully installed.
+Creating EventLog source ALFservice in log Application...
+Committing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Uninstalling assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Removing EventLog source ALFservice.
+Attempt to stop service ALFservice.
+Service ALFservice is being removed from the system...
+Service ALFservice was successfully removed from the system.
+Installing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Installing service ALFservice...
+Service ALFservice has been successfully installed.
+Creating EventLog source ALFservice in log Application...
+Committing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Uninstalling assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Removing EventLog source ALFservice.
+Service ALFservice is being removed from the system...
+Service ALFservice was successfully removed from the system.
+Installing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Installing service ALFservice...
+Creating EventLog source ALFservice in log Application...
+Rolling back assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Restoring event log to previous state for source ALFservice.
+Uninstalling assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Removing EventLog source ALFservice.
+Warning: The source ALFservice is not registered on the local machine.
+Service ALFservice is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Installing service ALFservice...
+Service ALFservice has been successfully installed.
+Creating EventLog source ALFservice in log Application...
+Committing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Uninstalling assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Removing EventLog source ALFservice.
+Attempt to stop service ALFservice.
+Service ALFservice is being removed from the system...
+Service ALFservice was successfully removed from the system.
+Installing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Installing service ALFservice...
+Service ALFservice has been successfully installed.
+Creating EventLog source ALFservice in log Application...
+Committing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Uninstalling assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Removing EventLog source ALFservice.
+Service ALFservice is being removed from the system...
+Service ALFservice was successfully removed from the system.
+Installing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Rolling back assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Installing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Installing service ALFservice...
+Service ALFservice has been successfully installed.
+Creating EventLog source ALFservice in log Application...
+Committing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Uninstalling assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Removing EventLog source ALFservice.
+Service ALFservice is being removed from the system...
+Service ALFservice was successfully removed from the system.
+Installing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Installing service ALFservice...
+Service ALFservice has been successfully installed.
+Creating EventLog source ALFservice in log Application...
+Committing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Uninstalling assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Removing EventLog source ALFservice.
+Service ALFservice is being removed from the system...
+Service ALFservice was successfully removed from the system.
+Installing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Installing service ALFservice...
+Service ALFservice has been successfully installed.
+Creating EventLog source ALFservice in log Application...
+Committing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Uninstalling assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Removing EventLog source ALFservice.
+Service ALFservice is being removed from the system...
+Service ALFservice was successfully removed from the system.
+Installing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Rolling back assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Installing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Installing service ALFservice...
+Service ALFservice has been successfully installed.
+Creating EventLog source ALFservice in log Application...
+Committing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Uninstalling assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Removing EventLog source ALFservice.
+Service ALFservice is being removed from the system...
+Service ALFservice was successfully removed from the system.
+Installing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Installing service ALFservice...
+Service ALFservice has been successfully installed.
+Creating EventLog source ALFservice in log Application...
+Committing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Uninstalling assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Removing EventLog source ALFservice.
+Service ALFservice is being removed from the system...
+Service ALFservice was successfully removed from the system.
+Installing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Installing service ALFservice...
+Service ALFservice has been successfully installed.
+Creating EventLog source ALFservice in log Application...
+Committing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Uninstalling assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Removing EventLog source ALFservice.
+Service ALFservice is being removed from the system...
+Service ALFservice was successfully removed from the system.
+Installing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Installing service ALFservice...
+Creating EventLog source ALFservice in log Application...
+Rolling back assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Restoring event log to previous state for source ALFservice.
+Installing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Installing service ALFservice...
+Service ALFservice has been successfully installed.
+Creating EventLog source ALFservice in log Application...
+Committing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Uninstalling assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Removing EventLog source ALFservice.
+Service ALFservice is being removed from the system...
+Service ALFservice was successfully removed from the system.
+Installing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Installing service ALFservice...
+Service ALFservice has been successfully installed.
+Creating EventLog source ALFservice in log Application...
+Committing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Uninstalling assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Removing EventLog source ALFservice.
+Service ALFservice is being removed from the system...
+Service ALFservice was successfully removed from the system.
+Installing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Installing service ALFservice...
+Service ALFservice has been successfully installed.
+Creating EventLog source ALFservice in log Application...
+Committing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Uninstalling assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Removing EventLog source ALFservice.
+Service ALFservice is being removed from the system...
+Service ALFservice was successfully removed from the system.
+Installing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Rolling back assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Installing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Rolling back assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Uninstalling assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Removing EventLog source ALFservice.
+Warning: The source ALFservice is not registered on the local machine.
+Service ALFservice is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Rolling back assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Installing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog
+Installing service ALFservice...
+Service ALFservice has been successfully installed.
+Creating EventLog source ALFservice in log Application...
+Committing assembly 'c:\alfprod\alfservice\bin\alfservice.exe'.
+Affected parameters are:
+   assemblypath = c:\alfprod\alfservice\bin\alfservice.exe
+   logfile = c:\alfprod\alfservice\bin\alfservice.InstallLog

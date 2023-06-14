@@ -1,0 +1,3133 @@
+﻿
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the uninstallation of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.TypeInitializationException was thrown with the following error message: The type initializer for "Wyeth.Utilities.Settings" threw an exception..
+The inner exception System.TypeInitializationException was thrown with the following error message: The type initializer for "Wyeth.Utilities.ConstantsManager" threw an exception..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.TypeInitializationException was thrown with the following error message: The type initializer for "Wyeth.Utilities.Settings" threw an exception..
+The inner exception System.TypeInitializationException was thrown with the following error message: The type initializer for "Wyeth.Utilities.ConstantsManager" threw an exception..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the Rollback phase of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.TypeInitializationException was thrown with the following error message: The type initializer for "Wyeth.Utilities.Settings" threw an exception..
+The inner exception System.TypeInitializationException was thrown with the following error message: The type initializer for "Wyeth.Utilities.ConstantsManager" threw an exception..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Cannot open Service Control Manager on computer '.'. This operation might require other privileges.
+The inner exception System.ComponentModel.Win32Exception was thrown with the following error message: Access is denied.
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: Access is denied
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: Access is denied
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: Access is denied
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: Access is denied
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: Access is denied
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: No mapping between account names and security IDs was done
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the uninstallation of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.ArgumentException was thrown with the following error message: Item has already been added.  Key in dictionary: "DINTRA"  Key being added: "DINTRA".
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.ArgumentException was thrown with the following error message: Item has already been added.  Key in dictionary: "DINTRA"  Key being added: "DINTRA".
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the Rollback phase of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.ArgumentException was thrown with the following error message: Item has already been added.  Key in dictionary: "DINTRA"  Key being added: "DINTRA".
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the uninstallation of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the Rollback phase of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the uninstallation of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the Rollback phase of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the Rollback phase of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the Rollback phase of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the uninstallation of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the uninstallation of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the uninstallation of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the Rollback phase of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the Rollback phase of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the uninstallation of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the uninstallation of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the uninstallation of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the Rollback phase of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the uninstallation of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the Rollback phase of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the uninstallation of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the Rollback phase of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the Rollback phase of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the Rollback phase of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the uninstallation of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the Rollback phase of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the d:\oratest\application_alf\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at d:\oratest\application_alf\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the d:\oratest\application_alf\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at d:\oratest\application_alf\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the uninstallation of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the Rollback phase of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the Rollback phase of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The account name is invalid or does not exist, or the password is invalid for the account name specified
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The account name is invalid or does not exist, or the password is invalid for the account name specified
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: No mapping between account names and security IDs was done
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: No mapping between account names and security IDs was done
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.NullReferenceException: Object reference not set to an instance of an object.
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the d:\intranet\application_alf\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at d:\intranet\application_alf\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the d:\intranet\application_alf\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at d:\intranet\application_alf\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the uninstallation of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the Rollback phase of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the Rollback phase of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the uninstallation of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the uninstallation of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the Rollback phase of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the uninstallation of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the uninstallation of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+The uninstall has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+An exception occurred during the uninstallation of the System.Configuration.Install.AssemblyInstaller installer.
+System.InvalidOperationException: Unable to create an instance of the Wyeth.AlfService.ProjectInstaller installer type.
+The inner exception System.Reflection.TargetInvocationException was thrown with the following error message: Exception has been thrown by the target of an invocation..
+The inner exception System.NullReferenceException was thrown with the following error message: Object reference not set to an instance of an object..
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service has been marked for deletion
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified service already exists
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+
+The uninstall is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The uninstall has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Install phase completed successfully, and the Commit phase is beginning.
+See the contents of the log file for the c:\alfprod\alfservice\bin\alfservice.exe assembly's progress.
+The file is located at c:\alfprod\alfservice\bin\alfservice.InstallLog.
+
+The Commit phase completed successfully.
+
+The transacted install has completed.

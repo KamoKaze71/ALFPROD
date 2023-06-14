@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[Utilities.vbproj]
+SCC_Aux_Path = "\\vi01w32\d$\oratest\code_repository\ALF_VSS"
+SCC_Project_Name = "$/ALF", VEDAAAAA

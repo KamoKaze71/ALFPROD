@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?> 
+<applicationSettings>
+  <!--Database settings-->
+<DB_CONNECTION_STRING_LIVE>User Id=alf2;Password=alf2;Data Source=intranet;Pooling=False; Connection Lifetime=20; Connection Timeout=10; Max Pool Size=3; Min Pool Size=2; Incr Pool Size=2; Decr Pool Size=2</DB_CONNECTION_STRING_LIVE> 
+<DB_CONNECTION_STRING_DEV>User Id=alf2;Password=alf2;Data Source=dintra;Pooling=False; Connection Lifetime=20; Connection Timeout=10; Max Pool Size=3; Min Pool Size=2; Incr Pool Size=2; Decr Pool Size=2</DB_CONNECTION_STRING_DEV> 
+
+  <!--Administrative settings-->
+  <APPLICATION_URL_LIVE>http://aece.insidewyeth.com/application_alf/</APPLICATION_URL_LIVE> 
+  <APPLICATION_URL_DEV>http://dev-aece.insidewyeth.com/application_alf/</APPLICATION_URL_DEV> 
+  <APPLICATION_URL_LOCALHOST>http://localhost/alf/</APPLICATION_URL_LOCALHOST> 
+  
+  <MACHINE_NAME_LIVE>vi01w34</MACHINE_NAME_LIVE>
+  <MACHINE_NAME_DEV>vi01w32</MACHINE_NAME_DEV>
+  
+  <EMAIL_SENDERS_NAME>webmavi@wyeth.com</EMAIL_SENDERS_NAME>
+  <COMPANY_NAME>Wyeth</COMPANY_NAME> 
+  <PathToDailySalesExe>C:\Program Files\Dailysales\dailysales.exe</PathToDailySalesExe>
+ 
+
+  <!--UI Settings-->
+ 
+<ALFSERVICE_MODE>DEBUG</ALFSERVICE_MODE>
+  <!--Directories -->
+ 
+</applicationSettings>

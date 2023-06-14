@@ -1,0 +1,88 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Alf", "http://localhost/alf/Alf.vbproj", "{ECEEA0F2-7301-43C6-861F-0C70AF6BBE05}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Utilities", "Utilities\Utilities.vbproj", "{EB45A27D-1513-4B78-A2DD-F4DF65AEFBF8}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AlfExportService", "AlfExportService\AlfExportService.vbproj", "{84C5154A-0897-47C0-9CC1-BA3C46E240AC}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AlfService", "AlfService\AlfService.vbproj", "{7BAF8D6E-B712-4128-A653-51973009C840}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 5
+		SccLocalPath0 = .
+		CanCheckoutShared = false
+		SolutionUniqueID = {DA63D1CD-B395-404B-94E7-BAAA01F7E0FA}
+		SccProjectUniqueName1 = http://localhost/alf/Alf.vbproj
+		SccLocalPath1 = .
+		CanCheckoutShared = false
+		SccProjectEnlistmentChoice1 = 2
+		SccProjectUniqueName2 = Utilities\\Utilities.vbproj
+		SccLocalPath2 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection2 = Utilities\\
+		SccProjectUniqueName3 = AlfExportService\\AlfExportService.vbproj
+		SccLocalPath3 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection3 = AlfExportService\\
+		SccProjectUniqueName4 = AlfService\\AlfService.vbproj
+		SccLocalPath4 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection4 = AlfService\\
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		2.4 = 2.4
+		ALFLIVE = ALFLIVE
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{ECEEA0F2-7301-43C6-861F-0C70AF6BBE05}.2.4.ActiveCfg = Debug|.NET
+		{ECEEA0F2-7301-43C6-861F-0C70AF6BBE05}.2.4.Build.0 = Debug|.NET
+		{ECEEA0F2-7301-43C6-861F-0C70AF6BBE05}.ALFLIVE.ActiveCfg = ALFLIVE|.NET
+		{ECEEA0F2-7301-43C6-861F-0C70AF6BBE05}.ALFLIVE.Build.0 = ALFLIVE|.NET
+		{ECEEA0F2-7301-43C6-861F-0C70AF6BBE05}.Debug.ActiveCfg = Debug|.NET
+		{ECEEA0F2-7301-43C6-861F-0C70AF6BBE05}.Debug.Build.0 = Debug|.NET
+		{ECEEA0F2-7301-43C6-861F-0C70AF6BBE05}.Release.ActiveCfg = Release|.NET
+		{ECEEA0F2-7301-43C6-861F-0C70AF6BBE05}.Release.Build.0 = Release|.NET
+		{EB45A27D-1513-4B78-A2DD-F4DF65AEFBF8}.2.4.ActiveCfg = Debug|.NET
+		{EB45A27D-1513-4B78-A2DD-F4DF65AEFBF8}.2.4.Build.0 = Debug|.NET
+		{EB45A27D-1513-4B78-A2DD-F4DF65AEFBF8}.ALFLIVE.ActiveCfg = ALFLIVE|.NET
+		{EB45A27D-1513-4B78-A2DD-F4DF65AEFBF8}.ALFLIVE.Build.0 = ALFLIVE|.NET
+		{EB45A27D-1513-4B78-A2DD-F4DF65AEFBF8}.Debug.ActiveCfg = Debug|.NET
+		{EB45A27D-1513-4B78-A2DD-F4DF65AEFBF8}.Debug.Build.0 = Debug|.NET
+		{EB45A27D-1513-4B78-A2DD-F4DF65AEFBF8}.Release.ActiveCfg = Release|.NET
+		{EB45A27D-1513-4B78-A2DD-F4DF65AEFBF8}.Release.Build.0 = Release|.NET
+		{84C5154A-0897-47C0-9CC1-BA3C46E240AC}.2.4.ActiveCfg = Debug|.NET
+		{84C5154A-0897-47C0-9CC1-BA3C46E240AC}.2.4.Build.0 = Debug|.NET
+		{84C5154A-0897-47C0-9CC1-BA3C46E240AC}.ALFLIVE.ActiveCfg = 1|.NET
+		{84C5154A-0897-47C0-9CC1-BA3C46E240AC}.ALFLIVE.Build.0 = 1|.NET
+		{84C5154A-0897-47C0-9CC1-BA3C46E240AC}.Debug.ActiveCfg = Debug|.NET
+		{84C5154A-0897-47C0-9CC1-BA3C46E240AC}.Debug.Build.0 = Debug|.NET
+		{84C5154A-0897-47C0-9CC1-BA3C46E240AC}.Release.ActiveCfg = Release|.NET
+		{84C5154A-0897-47C0-9CC1-BA3C46E240AC}.Release.Build.0 = Release|.NET
+		{7BAF8D6E-B712-4128-A653-51973009C840}.2.4.ActiveCfg = Debug|.NET
+		{7BAF8D6E-B712-4128-A653-51973009C840}.2.4.Build.0 = Debug|.NET
+		{7BAF8D6E-B712-4128-A653-51973009C840}.ALFLIVE.ActiveCfg = ALFLIVE|.NET
+		{7BAF8D6E-B712-4128-A653-51973009C840}.ALFLIVE.Build.0 = ALFLIVE|.NET
+		{7BAF8D6E-B712-4128-A653-51973009C840}.Debug.ActiveCfg = Debug|.NET
+		{7BAF8D6E-B712-4128-A653-51973009C840}.Debug.Build.0 = Debug|.NET
+		{7BAF8D6E-B712-4128-A653-51973009C840}.Release.ActiveCfg = Release|.NET
+		{7BAF8D6E-B712-4128-A653-51973009C840}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(SolutionItems) = postSolution
+		Util\WyethDropdown.vb = Util\WyethDropdown.vb
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

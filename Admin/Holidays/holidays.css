@@ -1,0 +1,15 @@
+.head, .head TD {
+	color:#C50202;
+	font-size:8pt;
+}
+
+.dayHeader, .dayHeader TD {
+	background-color:#C0C3E3;
+	font-size:8pt;
+	border-top:2px solid #545454;
+	border-bottom:2px solid #C0C3E3;
+}
+
+.nextPrev {
+	font-weight:normal;
+}

@@ -1,0 +1,63 @@
+
+SQL*Loader: Release 9.2.0.5.0 - Production on Do Nov 16 05:31:05 2006
+
+Copyright (c) 1982, 2002, Oracle Corporation.  All rights reserved.
+
+Kontrolldatei:    d:\intranet\application_alf\import\ControlFiles\WYETH_KD.dat.ctl
+Datendatei:     d:\intranet\application_alf\import\muenster_file_import\ALF_JDE_KD_20061115.dat
+  Datei fehlerhafter Sätze:d:\intranet\application_alf\import\muenster_file_import\ALF_JDE_KD_20061115.dat.bad
+  Datei für zurückgewiesene Sätze:  nichts spezifiziert
+ 
+ (alle Discards zulassen)
+
+Zu ladende Anzahl:     ALL
+Zu überspringende Anzahl: 0
+Zulässige Fehler:          50
+Bind-Array:     64 Zeilen, maximal 256000 Bytes
+Fortsetzung:    nichts spezifiziert
+Benutzer Pfad:      Konventionell
+
+Tabelle TMP_T_WYETH_KD, geladen von jedem logischen Satz.
+Insert-Option in Kraft für diese Tabelle: APPEND
+
+   Spaltenname                  Position   Läng Term Eing Datentyp
+------------------------------ ---------- ----- ---- ---- ---------------------
+WYKD_TRANSDAT                       FIRST     *   ;       DATE YYYYMMDD        
+WYKD_KDNR                            NEXT     *   ;       CHARACTER            
+WYKD_NAME                            NEXT     *   ;       CHARACTER            
+WYKD_DEPT                            NEXT     *   ;       CHARACTER            
+WYKD_STRASSE                         NEXT     *   ;       CHARACTER            
+WYKD_PLZ                             NEXT     *   ;       CHARACTER            
+WYKD_ORT                             NEXT     *   ;       CHARACTER            
+WYKD_XXXX                            NEXT     *   ;       CHARACTER            
+
+Satz 2: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_KD, Spalte WYKD_NAME.
+ORA-01401: Eingefügter Wert zu groß für Spalte
+
+Satz 32: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_KD, Spalte WYKD_NAME.
+ORA-01401: Eingefügter Wert zu groß für Spalte
+
+Satz 50: Abgelehnt - Fehler in Tabelle TMP_T_WYETH_KD, Spalte WYKD_STRASSE.
+ORA-01401: Eingefügter Wert zu groß für Spalte
+
+
+Tabelle TMP_T_WYETH_KD:
+  70 Zeilen erfolgreich geladen.
+  3 Zeilen aufgrund von Datenfehlern nicht geladen.
+  0 Zeilen  nicht geladen, da alle WHEN-Klauseln fehlerhaft waren.
+  0 Zeilen nicht geladen, da alle Felder NULL waren.
+
+
+Zugewiesener Bereich für Bind-Array:            132096 Bytes (64 Zeilen)
+Byte in Lese-Puffer: 1048576
+
+Gesamtzahl der übersprungenen logischen Datensätze:        0
+Gesamtzahl der gelesenen logischen Datensätze:              73
+Gesamtzahl der abgelehnten logischen Datensätze:             3
+Gesamtzahl der zurückgewiesenen logischen Datensätze:        0
+
+Lauf begonnen am Do Nov 16 05:31:05 2006
+Lauf beendet am Do Nov 16 05:31:05 2006
+
+Abgelaufene Zeit:    00:00:00.13
+CPU-Zeit:             00:00:00.03
